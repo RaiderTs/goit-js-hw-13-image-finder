@@ -10,7 +10,7 @@ body {
   color: #2a2a2a;
   padding-top: 30px;
   padding-bottom: 30px;
-  background-image: url(./img/autumn-1649362_1920.jpg);
+  background-image: url("../autumn-1649362_1920.jpg");
 }
 
 img {
